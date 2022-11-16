@@ -1,0 +1,1 @@
+{"version":3,"file":"buildTokenProvider.d.ts","sourceRoot":"","sources":["../../../src/functions/buildTokenProvider.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,0BAA0B,CAAC;AAE3D,OAAO,EAAE,KAAK,EAAE,MAAM,mBAAmB,CAAC;AAC1C,OAAO,EAEL,gCAAgC,EAChC,WAAW,EAGZ,MAAM,6BAA6B,CAAC;AAMrC,eAAO,MAAM,UAAU,oBAEtB,CAAC;AAEF,wBAAsB,cAAc,CAAC,MAAM,EAAE,MAAM;;;GAgBlD"}

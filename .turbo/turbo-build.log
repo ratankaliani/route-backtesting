@@ -1,0 +1,4 @@
+[33mextract-route:build[0m: cache hit, replaying output [2mf8617279b58b2411[0m
+[33mextract-route:build: [0m$ run-p compile-router && tsc -p tsconfig.json
+[33mextract-route:build: [0m$ npx typechain --target ethers-v5 --out-dir src/types/other '../../node_modules/@uniswap/swap-router-contracts/artifacts/contracts/**/*.json'
+[33mextract-route:build: [0mSuccessfully generated 45 typings!

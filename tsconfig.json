@@ -1,0 +1,9 @@
+{
+  "extends": "tsconfig/base.json",
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules", "build"],
+  "compilerOptions": {
+    "outDir": "build/main",
+    "resolveJsonModule": true /* Include modules imported with .json extension. */
+  }
+}
